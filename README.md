@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi there! My name is Doug and I'm new to this whole github thing. Right now I'm trying to create a portfolio on github.
